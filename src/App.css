@@ -1,0 +1,70 @@
+.App {
+  min-height: 100vh;
+  padding-left: 50px;
+  padding-right: 100px;
+}
+
+.bg-color {
+  background-color: #2026d2;
+}
+.h {
+  background-color: #171717;
+}
+
+.Header-text {
+  font-size: 1.7em;
+}
+
+.quote-header {
+  size: 10px;
+  font-size: 1.5em;
+  text-align: center;
+}
+.container-quote {
+  height: 40%;
+  width: 100%;
+  padding-bottom: 2.5%;
+}
+
+@media screen and (max-width: 800px) {
+  .App {
+    padding-left: 40px;
+    padding-right: 40px;
+  }
+  .container-quote {
+    height: 48%;
+    width: 100%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+  }
+}
+.pie-info {
+  height: 60px;
+  width: 80px;
+  position: absolute;
+  right: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.pie-color {
+  height: 15px;
+  width: 15px;
+}
+.pie-info-heading {
+  height: 60px;
+  width: 130px;
+  font-size: 20px;
+  font-weight: bold;
+  position: absolute;
+  left: 10px;
+  right: 0px;
+  flex-direction: row;
+  align-items: center;
+}
+.footer {
+  text-align: center;
+  padding: 1%;
+  background-color: #2026d2;
+  color: white;
+}
