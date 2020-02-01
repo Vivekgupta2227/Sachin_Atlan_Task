@@ -1,9 +1,9 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/3e1353bd-e055-4f07-8699-fc114cb930e1/deploy-status)](https://app.netlify.com/sites/srt-analysis/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d0660290-06f0-4ca2-a3bc-216ee34402f8/deploy-status)](https://app.netlify.com/sites/sachin-career-analysis/deploys)
 
-# s r t analysis
+# Sachin Career analysis
   
 
-Deployment Link: https://srt-analysis.netlify.com/
+Deployment Link: https://sachin-career-analysis.netlify.com/
 
 ### Problem Statement
 
@@ -16,6 +16,7 @@ I have used JS functions to calculate the stats and Recharts to visualize these 
 The frontend is made on React to draw a positive conclusion that Sachin is indeed the greatest cricketer of all time.
 * The whole project is jQuery free.
 * I have also visualized the results.
+* I have reduced the page speed time by removing third party Javascript.
 ### Technologies Used
 
 * Architecture used
